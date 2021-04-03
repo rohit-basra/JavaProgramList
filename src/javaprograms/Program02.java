@@ -1,6 +1,6 @@
 package javaprograms;
 /**
- * Program02: Program to Add Two Integers
+ * Program02: Write a program to Add Two Integers.
  * @author StudyViral
  *
  */
@@ -17,5 +17,4 @@ public class Program02 {
 	    int sum = num1 + num2;
 	    System.out.println("The sum is: " + sum);
 	}
-
 }
